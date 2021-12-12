@@ -1,0 +1,8 @@
+# Custom
+data
+output
+temp
+*.ipynb
+wandb
+*.pth
+__pycache__
