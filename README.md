@@ -19,32 +19,38 @@ https://2d-to-3d-shoe-webapp.vercel.app/
 
 Sample images to test with are available in sample-imgs folders
 
+## Project Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tp8s7VRRld8/0.jpg)](https://www.youtube.com/watch?v=Tp8s7VRRld8)
+
+## Folders
+
 Below is a guide for each folder/file - each folder HAS ITS OWN README! :
 
-## training
+### training
 
 This contains network architecture, training file, dataset loader script and all other pipeline related files
 
-## website-backend
+### website-backend
 
 This contains model inference script which can be deployed as a python webserver - it contains how to get pretrained model and code for running it as webserver for inference
 
-## website-frontend
+### website-frontend
 
 This contains a nextjs (react) based frontend which gives the user an interface to upload images and try the model
 
-## sample-imgs
+### sample-imgs
 
 Sample images that can be uploaded to model webapp for testing
 
-## slides.pptx
+### slides.pptx
 
 Presentation slides - best for overview of project
 
-## report.pdf
+### report.pdf
 
 Project report pdf file
 
-## proposal.pdf
+### proposal.pdf
 
 Project proposal pdf
