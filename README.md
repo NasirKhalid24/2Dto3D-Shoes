@@ -13,12 +13,6 @@
   </p>
 </div>
 
-To run the project just use the following website as it combines all aspects of the project
-
-https://2d-to-3d-shoe-webapp.vercel.app/
-
-Sample images to test with are available in sample-imgs folders
-
 ## Project Video
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tp8s7VRRld8/0.jpg)](https://www.youtube.com/watch?v=Tp8s7VRRld8)
